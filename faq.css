@@ -1,4 +1,3 @@
-
 *{
 	padding:0;
 	margin:0;
@@ -139,45 +138,3 @@ footer{
 	font-size:11pt;
 	text-transform: uppercase;
 }
-/* Slideshow container */
-.slideshowheading {
-    margin-left: 15px;
-}
-.slideshow-container {
-    position: relative;
-    background: #f1f1f1f1;
-    font-size: 40px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-  }
-
-  /* Slides */
-  .mySlides {
-    display: none;
-    padding: 80px;
-    text-align: center;
-  }
-.mySlides h1 {
-  color: red;
-}
-  /* Next & previous buttons */
-  .prev, .next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    margin-top: -30px;
-    padding: 16px;
-    color: #888;
-    font-weight: bold;
-    font-size: 60px;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
-  }
-
-  /* Position the "next button" to the right */
-  .next {
-    position: absolute;
-    right: 0;
-    border-radius: 3px 0 0 3px;
-  }
