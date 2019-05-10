@@ -8,6 +8,13 @@
 html{
 	height:100%;
 }
+#imagemain{
+	width:100%;
+	height: 400px;
+	background-image: url("bogboyheaderpic.jpg");
+	align-items: center;
+	align-self: center;
+}
 
 .wrapper{
 	min-height:100%;
@@ -19,6 +26,7 @@ body{
 	height:100%;
 	background:#ddd;
 }
+
 .paragraphstyle1{
 	padding:50px;
 	background: #FBE0DA;
@@ -36,6 +44,19 @@ h2{
 	text-align: center;
 	font-size:30pt;
 	letter-spacing: 15px;
+}
+#imagemain h1{
+	color: black;
+	font-family: big john;
+	font-weight: bold;
+	font-size: 30px;
+	letter-spacing: 10px;
+	text-align: center;
+	padding: 0;
+	align-self: center;
+}
+#imagemain h1:hover{
+	color: Blue;
 }
 article h2{
 	padding:50px;
