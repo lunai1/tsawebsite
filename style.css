@@ -140,7 +140,9 @@ footer{
     padding: 80px;
     text-align: center;
   }
-
+.mySlides h1 {
+  color: red;
+}
   /* Next & previous buttons */
   .prev, .next {
     cursor: pointer;
@@ -162,4 +164,3 @@ footer{
     right: 0;
     border-radius: 3px 0 0 3px;
   }
-  
