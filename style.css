@@ -26,11 +26,15 @@ body{
 	height:100%;
 	background:#ddd;
 }
-
 .paragraphstyle1{
-	padding:50px;
+  align-items: center;
+  text-align: center;
+  background: #FBE0DA;
+}
+.paragraphstyle1 p{
+	padding:30px;
 	background: #FBE0DA;
-	font-size: 20px;
+	font-size: 30px;
 	font-weight: bold;
 	font-family: big john;
 	text-align: center;
@@ -46,7 +50,7 @@ h2{
 	letter-spacing: 15px;
 }
 #imagemain h1{
-	color: black;
+	color: white;
 	font-family: big john;
 	font-weight: bold;
 	font-size: 30px;
@@ -56,7 +60,7 @@ h2{
 	align-self: center;
 }
 #imagemain h1:hover{
-	color: Blue;
+	color: lightgreen;
 }
 article h2{
 	padding:50px;
@@ -66,6 +70,11 @@ article h2{
 	text-align: center;
 	font-size:30pt;
 	letter-spacing: 15px;
+}
+.paragraphstyle1 h3{
+  font-family: big john;
+  text-align: center;
+  font-size: 50px;
 }
 
 .navigationDesktop{
